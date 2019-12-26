@@ -1,15 +1,15 @@
 # Veggie Stew
 
-### Revision 4
+### Revision 5
 
 ## Ingredient List
-- 4 Whole Carrots
-- 1 Cup sliced Onion (white)
-- 1 Cup sliced Red Bell Pepper
-- 1 Cup sliced Green Bell Pepper
+- 5 Whole Carrots (sliced)
+- 2 Cups sliced Onion (white)
+- 1 Cup sliced Red Bell Pepper (thickly sliced)
+- 1 Cup sliced Green Bell Pepper (thickly sliced)
 - 4 Cups cut green beans
-- 2 Cups sliced Bella Mushrooms
-- 1 Can Lima Beans
+- 1 1/2 Cups sliced Bella Mushrooms
+- 2 Cans Lima Beans
 - 1 Can Sweet Peas
 - 1 Can Black Beans
 - 1 Family Sized Can Condensed Cream of Mushroom Soup
