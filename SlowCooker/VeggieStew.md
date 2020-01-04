@@ -1,15 +1,15 @@
 # Veggie Stew
 
-### Revision 4
+### Revision 5
 
 ## Ingredient List
-- 4 Whole Carrots
-- 1 Cup sliced Onion (white)
-- 1 Cup sliced Red Bell Pepper
-- 1 Cup sliced Green Bell Pepper
-- 4 Cups cut green beans
-- 2 Cups sliced Bella Mushrooms
-- 1 Can Lima Beans
+- 5 Whole Carrots (sliced, roughly 2 cups)
+- 2 Cups sliced Onion (white)
+- 1 Cup sliced Red Bell Pepper (thickly sliced, 1 medium sized pepper)
+- 1 Cup sliced Green Bell Pepper (thickly sliced, 1 medium sized pepper)
+- 3 Cups cut green beans
+- 1 1/4 Cups sliced Bella Mushrooms
+- 1 Cans Lima Beans
 - 1 Can Sweet Peas
 - 1 Can Black Beans
 - 1 Family Sized Can Condensed Cream of Mushroom Soup
@@ -40,14 +40,8 @@
 ## Notes
 This produces a very thick stew. To make it more soup like, don't drain anything from the canned ingredients, and add 1-2 cups of beef or vegetable broth.
 
-This is heavy on green beans. You may want to substitute 1 cup green beans for another item.
-
-This revision came out to be more earthy than expected. It's more mushroom stew than veggie stew. The next revision should reduce mushrooms and replace with vegetables.
-
-Historially this recipe has benefited from sitting in the refridgerator. Becoming more favorful with each passing day. Revision 4 is an exception to this. It was slightly better fresh than re-heated.
-
 ## Yield
-~ 6 servings
+~ 8 servings
 
 ## Nutritional Information
 Not yet gathered
