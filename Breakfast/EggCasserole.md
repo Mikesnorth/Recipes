@@ -3,7 +3,7 @@
 ### Revision 1
 
 ## Ingredient List
-- 1-1/2 lbs pork sausage
+- 1 lbs pork sausage
 - 9 Large Eggs
 - 3 Cups Milk
 - 4 Slices white bread (cubed)
