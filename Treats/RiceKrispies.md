@@ -1,10 +1,10 @@
-# Rice Crispie Treats
+# Rice Krispie Treats
 
 ## Ingredient List
 - 7x11 pan for thick treats, 9x13 for thin treats
 - 3-1/2 Tbsp Butter (Optoinally rest to room temperature before starting)
 - 10 oz Mashmallows (1 full bag is 10oz, large and small both work)
-- 5-7 cups Rice Crispies Cereal (Generic works just fine)
+- 5-7 cups Rice Krispies Cereal (Generic works just fine)
 - Cooking Spray (Optional, preferably butter flavored or flavorless)
 
 ## Spices
@@ -20,12 +20,12 @@
 * Continue to stir occasionally until fully melted
 * Fully coat the serving dish with butter from the butter wrapper (Optionally use cooking spray)
 * Reduce heat to lowest possible setting
-* Ensure spatual is buttered
-* Add 1-2 cups of Rice Crispies Cereal
+* Ensure spatula is buttered
+* Add 1-2 cups of Rice Krispie Cereal
 * Stir until well incorporated
-* Add 1-2 more cups of Rice Crispies Cereal
+* Add 1-2 more cups of Rice Krispie Cereal
 * Stir until well incorporated
-* Turn off heat
+* Turn off heat (but keep on burner for residual heat)
 * Slowly stir in small amounts of cereal until desired consistency is achieved
 * While still warm, transfer to serving dish, using spatula to evenly spread the treats
 * Rinse spatula and pot/pan promptly to prevent a sticky mess
